@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey 👋
+
+My name is Nevio. I am a German developer.
+
+Currently I'm working as Administrator and Developer on the Minecraft Server of the German [I'm an inline-style link with title](https://www.youtube.com/c/DaGiLPLetsBuildHogwarts "Youtube DaGiLP") YouTuber DaGiLP.
+
+Under my organisation @NevioGames we work on the DaGiLP-Network.
+
+Have a nice day!
 
 <!--
 **Nevio67/Nevio67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
