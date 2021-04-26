@@ -4,7 +4,7 @@ My name is Nevio. I am a German developer.
 
 Currently I'm working as Administrator and Developer on the Minecraft Server of the German [YouTuber DaGiLP](https://www.youtube.com/c/DaGiLPLetsBuildHogwarts "Youtube DaGiLP").
 
-Under my organisation @NevioGames we work on the DaGiLP-Network.
+Under my organisation [@NevioGames](https://github.com/NevioGames) we work on the DaGiLP-Network.
 
 Have a nice day!
 
